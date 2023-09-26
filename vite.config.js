@@ -20,6 +20,5 @@ export default defineConfig({
       statements: 100,
       functions: 100,
     },
-    teardownTimeout: 500,
   },
 });
